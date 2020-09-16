@@ -3,3 +3,10 @@ sfgdi:
     username: JMS Faworit
     password: mypass
     dburl: dfdgdfgdfsd
+
+---
+spring:
+  profiles: de
+sfgdi:
+  jms:
+    username: JMS Faworit in another YAML file
