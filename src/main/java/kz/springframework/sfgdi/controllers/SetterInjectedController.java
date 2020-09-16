@@ -12,7 +12,6 @@ public class SetterInjectedController {
     private GreetingService greetingService;
 
     @Qualifier("setterInjectedGreetingService")
-    @Autowired
     public void setGreetingService(GreetingService greetingService) {
         this.greetingService = greetingService;
     }
