@@ -1,0 +1,31 @@
+# this is comment
+
+name: Yevgeniy
+
+names:
+  - Jhon
+  - Paul
+  - Ringo
+
+pound_sign: "#"
+
+book:
+  author: Andzhey Sapkovsky
+  publisher: Rosman
+
+truth: yes
+another_truth: True
+more_true: true
+
+false: no #no, false, FALSE
+
+string_val: "This is string"
+colon_string: "course: spring courses"
+include_new_lines:  |
+  sdasdas dasd asd
+  sdasd sadasd fd
+  sdasd fas vxxc
+
+ignore_new_lines:  >
+  this is one
+  long String
